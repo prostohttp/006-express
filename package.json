@@ -4,7 +4,7 @@
   "description": "API CRUD для работы с сущностью «книга»",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./api/index.js"
+    "start": "nodemon ./api/book.js"
   },
   "keywords": [],
   "author": "",
